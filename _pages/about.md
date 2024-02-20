@@ -90,7 +90,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Process Safety and Environmental Protection 2020</div><img src='images/6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Lyu P, `Chen N`, Mao S, et al. LSTM based encoder-decoder for short-term predictions of gas concentration using multi-sensor fusion[J]. Process Safety and Environmental Protection, 2020, 137: 93-105.  `一区`
+- Lyu P, `Chen N`, Mao S, et al. LSTM based encoder-decoder for short-term predictions of gas concentration using multi-sensor fusion[J]. Process Safety and Environmental Protection, 2020, 137: 93-105.  `二区`
 [[网页]](https://www.sciencedirect.com/science/article/pii/S0957582019319688) [[预览]]() [[下载]]()
 
 </div>
