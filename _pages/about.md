@@ -127,6 +127,12 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
+# 🏅 期刊审稿(Selected)
+- *IEEE Transactions on Geoscience and Remote Sensing*
+- *IEEE Geoscience and Remote Sensing Letters*   
+
+<span class='anchor' id='-xshy'></span>
+
 # 🏅 荣誉奖项
 - *2016.09* 获得 测绘地理信息青年学者交流日`优秀论文奖`  
 - *2016.07* 获得 全国研究生智慧城市设计与创意大赛 `全国一等奖`   
