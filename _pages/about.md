@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我毕业于北京大学地球与空间科学学院，地图学与地理信息系统专业，截止目前共发表学术论文10篇，其中以第一作者/通讯作者（共一）身份在IEEE TGRS，Remote Sensing等遥感测绘领域知名期刊发表论文8篇（含中科院一区论文3篇，1篇论文获得“测绘地理信息青年学者交流日”优秀论文奖）。目前担任IEEE TGRS, IEEE GRSL等期刊审稿人。
+我毕业于北京大学地球与空间科学学院，地图学与地理信息系统专业，截止目前共发表学术论文10篇，其中以第一作者/通讯作者（共一）身份在IEEE TGRS，Remote Sensing等遥感测绘领域知名期刊发表论文8篇（含中科院一区论文3篇，1篇论文获得“测绘地理信息青年学者交流日”优秀论文奖）。目前担任IEEE TGRS, IEEE GRSL, IEEE Sensors Journal等期刊审稿人。
  <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=ZHQA6XkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -129,7 +129,8 @@ redirect_from:
 
 # 🏅 期刊审稿(Selected)
 - *IEEE Transactions on Geoscience and Remote Sensing*
-- *IEEE Geoscience and Remote Sensing Letters*   
+- *IEEE Geoscience and Remote Sensing Letters*
+- *IEEE Sensors Journal*
 
 <span class='anchor' id='-xshy'></span>
 
