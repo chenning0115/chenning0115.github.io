@@ -131,6 +131,7 @@ redirect_from:
 - *IEEE Transactions on Geoscience and Remote Sensing*
 - *IEEE Geoscience and Remote Sensing Letters*
 - *IEEE Sensors Journal*
+- *Sensing and Imaging*
 
 <span class='anchor' id='-xshy'></span>
 
