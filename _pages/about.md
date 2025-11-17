@@ -48,8 +48,8 @@ redirect_from:
 - Liu H, Huang C, `Chen N*`, et al. Negative Samples Mining Matters: Reconsidering Hyperspectral Image Classification With Contrastive Learning[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024. `通讯作者`
 - Haoyuan Zhang, Hui Liu, Zexi Shi, Shanjun Mao, `Ning Chen*`,. ConvMamba: Combining Mamba with CNN for hyperspectral image classification[J]. Neurocomputing, 2025: 131016. `通讯作者`
 - Lu M, `Chen N*`, Yue X, et al. Beyond Dimensionality Explosion: A Latent Diffusion Framework for Hyperspectral Image Classification[J]. Neurocomputing, 2025: 131249. `通讯作者`
-- Sun Z, Liu H, `Chen N`, et al. Spectral Channel Mixing Transformer with Spectral-Center Attention for Hyperspectral Image Classification[J]. Remote Sensing, 2025, 17(17): 3100. `通讯作者`
-- Sun Z, Shen Z, `Chen N`, et al. MEFormer: Enhancing Low-Light Images While Preserving Image Authenticity in Mining Environments[J]. Remote Sensing, 2025, 17(7): 1165. `通讯作者`
+- Sun Z, Liu H, `Chen N*`, et al. Spectral Channel Mixing Transformer with Spectral-Center Attention for Hyperspectral Image Classification[J]. Remote Sensing, 2025, 17(17): 3100. `通讯作者`
+- Sun Z, Shen Z, `Chen N*`, et al. MEFormer: Enhancing Low-Light Images While Preserving Image Authenticity in Mining Environments[J]. Remote Sensing, 2025, 17(7): 1165. `通讯作者`
 -	Liu, H.; Yuan, M.; Li, M.; Li, B.;`Chen, N.*`; Wang, J.; Li, X.; Wu, X. TDFPI: A Three-Dimensional and Full Parameter Inversion Model and Its Application for Building Damage Assessment in Guotun Coal Mining Areas, Shandong, China. Remote Sens. 2024, 16, 698. https://doi.org/10.3390/rs16040698 `通讯作者`
 [[网页]](https://www.mdpi.com/2072-4292/16/4/698) 
 - Kang, J.; `Chen, N.`; Li, M.; Mao, S.; Zhang, H.; Fan, Y.; Liu, H. A Point Cloud Segmentation Method for Dim and Cluttered Underground Tunnel Scenes Based on the Segment Anything Model. Remote Sens. 2024, 16, 97. https://doi.org/10.3390/rs16010097  `共同一作`
@@ -120,6 +120,7 @@ redirect_from:
 - *2018.08 - 2018.11*, 微软亚洲研究院(MSRA), 中国北京
 - *2019.07 - 2022.10*, 字节跳动 算法工程师, 中国北京
 - *2022.10 - now*, 北京大学 地球与空间科学学院 工程技术系列, 中国北京
+
 
 
 
