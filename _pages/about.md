@@ -38,9 +38,9 @@ redirect_from:
 ---
 <div class='paper-box-text' markdown="1">
 
-- `N. Chen`, L. Fang, Y. Xia, S. Xia, H. Liu and J. Yue, "Spectral Query Spatial: Revisiting the Role of Center Pixel in Transformer for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3361652.	`第一作者`
+- `N. Chen`, L. Fang, Y. Xia, S. Xia, H. Liu and J. Yue, "Spectral Query Spatial: Revisiting the Role of Center Pixel in Transformer for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3361652.	`第一作者,ESI高被引`
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10419080) 
-- `N. Chen`, J. Yue, L. Fang and S. Xia, "SpectralDiff: A Generative Framework for Hyperspectral Image Classification With Diffusion Models," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 5522416, doi: 10.1109/TGRS.2023.3310023.  `第一作者`
+- `N. Chen`, J. Yue, L. Fang and S. Xia, "SpectralDiff: A Generative Framework for Hyperspectral Image Classification With Diffusion Models," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 5522416, doi: 10.1109/TGRS.2023.3310023.  `第一作者，ESI高被引`
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10234379) 
 - `Chen N`, Huang Z, Yue X, et al. Svaformer: Integrating random and hierarchical spectral view attention for hyperspectral image classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024. `第一作者`
 - B. Li, L. Fang, `N. Chen*`, J. Kang and J. Yue*, "Enhancing Hyperspectral Image Classification: Leveraging Unsupervised Information With Guided Group Contrastive Learning," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-17, 2024, Art no. 5504317, doi: 10.1109/TGRS.2024.3350700.	 `通讯作者`
@@ -120,6 +120,7 @@ redirect_from:
 - *2018.08 - 2018.11*, 微软亚洲研究院(MSRA), 中国北京
 - *2019.07 - 2022.10*, 字节跳动 算法工程师, 中国北京
 - *2022.10 - now*, 北京大学 地球与空间科学学院 工程技术系列, 中国北京
+
 
 
 
