@@ -26,9 +26,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2025*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku.png" width="23pt"></a> 北京大学 地球与空间科学学院，中国北京，博士
-- *2016-2019*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku.png" width="23pt"></a> 北京大学 地球与空间科学学院，中国北京，硕士
-- *2012-2016*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku.png" width="20pt"></a> 北京大学 地球与空间科学学院，中国北京，本科
+- *2025* <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku.png" width="23pt"></a> 北京大学 地球与空间科学学院，中国北京，博士
+- *2016-2019* <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku.png" width="23pt"></a> 北京大学 地球与空间科学学院，中国北京，硕士
+- *2012-2016* <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku.png" width="20pt"></a> 北京大学 地球与空间科学学院，中国北京，本科
  
 <span class='anchor' id='-cn'></span>
 
@@ -122,6 +122,7 @@ redirect_from:
 - *2018.08 - 2018.11*, 微软亚洲研究院(MSRA), 中国北京
 - *2019.07 - 2022.10*, 字节跳动 算法工程师, 中国北京
 - *2022.10 - now*, 北京大学 地球与空间科学学院 工程技术系列, 中国北京
+
 
 
 
