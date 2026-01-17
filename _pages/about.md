@@ -1,4 +1,4 @@
----
+111---
 permalink: /
 title: ""
 excerpt: ""
@@ -34,7 +34,7 @@ redirect_from:
 
 # 📝 论文专利
 
-### 学术论文
+### 代表性论文
 ---
 <div class='paper-box-text' markdown="1">
 
@@ -43,6 +43,7 @@ redirect_from:
 - `N. Chen`, J. Yue, L. Fang and S. Xia, "SpectralDiff: A Generative Framework for Hyperspectral Image Classification With Diffusion Models," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 5522416, doi: 10.1109/TGRS.2023.3310023.  `第一作者，ESI高被引`
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10234379) 
 - `Chen N`, Huang Z, Yue X, et al. Svaformer: Integrating random and hierarchical spectral view attention for hyperspectral image classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024. `第一作者`
+- Hui Liu, Wei Tong, `Ning Chen*`, Tao Xie, Chenjia Huang, Xia Yue, Zhou Huang, "Seeing through the noise: A cross-modal guided framework for hyperspectral image classification under multi-type degradations[J]," International Journal of Applied Earth Observation and Geoinformation, 2026. `通讯作者`
 - B. Li, L. Fang, `N. Chen*`, J. Kang and J. Yue*, "Enhancing Hyperspectral Image Classification: Leveraging Unsupervised Information With Guided Group Contrastive Learning," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-17, 2024, Art no. 5504317, doi: 10.1109/TGRS.2024.3350700.	 `通讯作者`
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10382626) 
 - Liu H, Huang C, `Chen N*`, et al. Negative Samples Mining Matters: Reconsidering Hyperspectral Image Classification With Contrastive Learning[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024. `通讯作者`
@@ -51,23 +52,20 @@ redirect_from:
 - Sun Z, Liu H, `Chen N*`, et al. Spectral Channel Mixing Transformer with Spectral-Center Attention for Hyperspectral Image Classification[J]. Remote Sensing, 2025, 17(17): 3100. `通讯作者`
 - Sun Z, Shen Z, `Chen N*`, et al. MEFormer: Enhancing Low-Light Images While Preserving Image Authenticity in Mining Environments[J]. Remote Sensing, 2025, 17(7): 1165. `通讯作者`
 -	Liu, H.; Yuan, M.; Li, M.; Li, B.;`Chen, N.*`; Wang, J.; Li, X.; Wu, X. TDFPI: A Three-Dimensional and Full Parameter Inversion Model and Its Application for Building Damage Assessment in Guotun Coal Mining Areas, Shandong, China. Remote Sens. 2024, 16, 698. https://doi.org/10.3390/rs16040698 `通讯作者`
-[[网页]](https://www.mdpi.com/2072-4292/16/4/698) 
+[[网页]](https://www.mdpi.com/2072-4292/16/4/698)
+- Yang, M.; Wang, S.; Yang, H.; `Chen, N`. Breaking the Speed–Accuracy Trade-Off: A Novel Embedding-Based Framework with Coarse Screening-Refined Verification for Zero-Shot Named Entity Recognition. Computers 2026, 15, 36. `通讯作者`
 - Kang, J.; `Chen, N.`; Li, M.; Mao, S.; Zhang, H.; Fan, Y.; Liu, H. A Point Cloud Segmentation Method for Dim and Cluttered Underground Tunnel Scenes Based on the Segment Anything Model. Remote Sens. 2024, 16, 97. https://doi.org/10.3390/rs16010097  `共同一作`
 [[网页]](https://www.mdpi.com/2072-4292/16/1/97) 
 - Zhang, H.; `Chen, N.`; Li, M.; Mao, S. The Crack Diffusion Model: An Innovative Diffusion-Based Method for Pavement Crack Detection. Remote Sens. 2024, 16, 986. https://doi.org/10.3390/rs16060986  `共同一作`
 [[网页]](https://www.mdpi.com/2072-4292/16/6/986) 
-- Lyu P, `Chen N`, Mao S, et al. LSTM based encoder-decoder for short-term predictions of gas concentration using multi-sensor fusion[J]. Process Safety and Environmental Protection, 2020, 137: 93-105. 
-[[网页]](https://www.sciencedirect.com/science/article/pii/S0957582019319688) 
 - `陈宁`, 毛善君, 李德龙, 等. 多基站协同训练神经网络的 PM2. 5 预测模型[J]. 测绘科学, 2018, 43(7): 87-93.	 `第一作者`
 [[网页]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZHQA6XkAAAAJ&sortby=pubdate&citation_for_view=ZHQA6XkAAAAJ:9yKSN-GCB0IC) 
 - `陈宁`, 彭霞, 黄舟. 社交媒体地理大数据的旅游景点热度分析[J]. 测绘科学, 2016, 41(12): 167-171.  `第一作者`
 [[网页]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZHQA6XkAAAAJ&sortby=pubdate&citation_for_view=ZHQA6XkAAAAJ:2osOgNQ5qMEC)
-- 杨梦, `陈宁`, 范誉航. 煤矿事故案例存储与检索研究[J]. Coal Science & Technology (0253-2336), 2021, 49(9).	
-[[网页]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZHQA6XkAAAAJ&sortby=pubdate&citation_for_view=ZHQA6XkAAAAJ:u-x6o8ySG0sC)
 
 </div>
 
-### 专利
+### 已授权专利
 ---
 - 基于多维时空信息矢量图形的互生成式人工智能系统，毛善君;张鹏鹏;陈宁;张浩源，2024
 - 一种煤矿垂直领域大模型，杨梦;陈宁;张鹏鹏;毛善君，2025
@@ -122,6 +120,7 @@ redirect_from:
 - *2018.08 - 2018.11*, 微软亚洲研究院(MSRA), 中国北京
 - *2019.07 - 2022.10*, 字节跳动 高级算法工程师, 中国北京
 - *2022.10 - now*, 北京大学 地球与空间科学学院 工程技术系列教师, 中国北京
+
 
 
 
