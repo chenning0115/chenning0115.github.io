@@ -64,9 +64,6 @@ redirect_from:
 - `陈宁`, 彭霞, 黄舟. 社交媒体地理大数据的旅游景点热度分析[J]. 测绘科学, 2016, 41(12): 167-171.  `第一作者`
 [[网页]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZHQA6XkAAAAJ&sortby=pubdate&citation_for_view=ZHQA6XkAAAAJ:2osOgNQ5qMEC)
 
-
-[1]陈宁,马浩宇,张鹏鹏,等.融合关键点与拓扑结构的矿山巷道矢量中心线智能提取[J/OL].煤炭学报,1-14[2026-04-01].https://doi.org/10.13225/j.cnki.jccs.2025.1091.
-
 </div>
 
 ### 已授权专利
