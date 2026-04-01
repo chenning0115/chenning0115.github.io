@@ -57,11 +57,15 @@ redirect_from:
 - Kang, J.; `Chen, N.`; Li, M.; Mao, S.; Zhang, H.; Fan, Y.; Liu, H. A Point Cloud Segmentation Method for Dim and Cluttered Underground Tunnel Scenes Based on the Segment Anything Model. Remote Sens. 2024, 16, 97. https://doi.org/10.3390/rs16010097  `共同一作`
 [[网页]](https://www.mdpi.com/2072-4292/16/1/97) 
 - Zhang, H.; `Chen, N.`; Li, M.; Mao, S. The Crack Diffusion Model: An Innovative Diffusion-Based Method for Pavement Crack Detection. Remote Sens. 2024, 16, 986. https://doi.org/10.3390/rs16060986  `共同一作`
-[[网页]](https://www.mdpi.com/2072-4292/16/6/986) 
+[[网页]](https://www.mdpi.com/2072-4292/16/6/986)
+- `陈宁`, 马浩宇, 张鹏鹏, 等. 融合关键点与拓扑结构的矿山巷道矢量中心线智能提取[J/OL].煤炭学报,1-14. `第一作者`
 - `陈宁`, 毛善君, 李德龙, 等. 多基站协同训练神经网络的 PM2. 5 预测模型[J]. 测绘科学, 2018, 43(7): 87-93.	 `第一作者`
 [[网页]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZHQA6XkAAAAJ&sortby=pubdate&citation_for_view=ZHQA6XkAAAAJ:9yKSN-GCB0IC) 
 - `陈宁`, 彭霞, 黄舟. 社交媒体地理大数据的旅游景点热度分析[J]. 测绘科学, 2016, 41(12): 167-171.  `第一作者`
 [[网页]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ZHQA6XkAAAAJ&sortby=pubdate&citation_for_view=ZHQA6XkAAAAJ:2osOgNQ5qMEC)
+
+
+[1]陈宁,马浩宇,张鹏鹏,等.融合关键点与拓扑结构的矿山巷道矢量中心线智能提取[J/OL].煤炭学报,1-14[2026-04-01].https://doi.org/10.13225/j.cnki.jccs.2025.1091.
 
 </div>
 
