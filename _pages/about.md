@@ -11,15 +11,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是北京大学工程师，前字节跳动高级算法工程师，从事多模态高维信息处理、时空推理、智能矿山相关领域研究，当前已发表学术论文20余篇，其中以第一作者/通讯作者在IEEE TGRS，JAG, Neurocomputing等期刊发表论文18篇，已授权国内外发明专利5项，主持国家自然科学基金青年科学基金（C类），国家自然基金联合重点项目课题，作为课题骨干参与自然基金面上项目、国家重点研发计划等多项课题项目。获中国煤炭工业协会科学技术奖一等奖（排名第一），北京大学第十三届实验技术成果奖三等奖（排名第一），“地理信息青年学者交流日优秀论文奖”。 目前担任IEEE TIP, IEEE TNNLS，IEEE TGRS, IEEE GRS, IEEE Sensors Journal, Sensing and Imaging, 自动化学报等期刊审稿人。兼职中国图形图像学会图像应用与系统集成专业委员会委员，中国煤炭工业学会会员。联合北京龙软科技股份有限公司进行矿山工业领域人工智能项目攻关与产学研转化，当前已成功主导研发了“煤矿工业时空大模型”，“基于LLM的矿山智能知识库”、“煤矿井下视频AI系统”、“基于Agent技术的智能交互系统”等多套人工智能项目，相关系统已成功实施于多家煤矿企业，营收超千万元。作为中国煤矿工业协会特邀嘉宾报告《基于大模型的煤矿领域应用技术探索》
+我是北京大学工程师，前字节跳动高级算法工程师，从事多模态高维信息处理、时空推理、智能矿山相关领域研究，当前以第一作者/通讯作者在IEEE TGRS，JAG, Neurocomputing等期刊发表论文18篇，已授权国内外发明专利5项，主持国家自然科学基金青年科学基金（C类），国家自然基金联合重点项目课题，作为课题骨干参与自然基金面上项目、国家重点研发计划等多项课题项目。获中国煤炭工业协会科学技术奖一等奖（排名第一），北京大学第十三届实验技术成果奖三等奖（排名第一），“地理信息青年学者交流日优秀论文奖”。 目前担任IEEE TIP, IEEE TNNLS，IEEE TGRS, IEEE GRS, IEEE Sensors Journal, Sensing and Imaging, 自动化学报等期刊审稿人。兼职中国图形图像学会图像应用与系统集成专业委员会委员，中国煤炭工业学会会员。联合北京龙软科技股份有限公司进行矿山工业领域人工智能项目攻关与产学研转化，当前已成功主导研发了“煤矿工业时空大模型”，“基于LLM的矿山智能知识库”、“煤矿井下视频AI系统”、“基于Agent技术的智能交互系统”等多套人工智能项目，相关系统已成功实施于多家煤矿企业，营收超千万元。作为中国煤矿工业协会特邀嘉宾报告《基于大模型的煤矿领域应用技术探索》
 
 
 我的研究领域包括：
 - 深度学习
-- 推荐系统
 - 遥感图像处理
 - 时空推理
 - 智能矿山
+- 推荐系统
   
 
 
@@ -42,15 +42,17 @@ redirect_from:
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10419080) 
 - `N. Chen`, J. Yue, L. Fang and S. Xia, "SpectralDiff: A Generative Framework for Hyperspectral Image Classification With Diffusion Models," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 5522416, doi: 10.1109/TGRS.2023.3310023.  `第一作者，ESI高被引`
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10234379)
-- B. Yang, `N. Chen`, et al., "DIR-HSI: Degradation-Invariant Representation Learning for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2026.3687650. `通讯作者`
+- B. Yang, `N. Chen*`, et al., "DIR-HSI: Degradation-Invariant Representation Learning for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2026.3687650. `通讯作者`
 - `Chen N`, Huang Z, Yue X, et al. Svaformer: Integrating random and hierarchical spectral view attention for hyperspectral image classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024. `第一作者`
 - Hui Liu, Wei Tong, `Ning Chen*`, Tao Xie, Chenjia Huang, Xia Yue, Zhou Huang, "Seeing through the noise: A cross-modal guided framework for hyperspectral image classification under multi-type degradations[J]," International Journal of Applied Earth Observation and Geoinformation, 2026. `通讯作者`
-- Xia Y, Yue X, Liu X, `N.Chen`, et al. SpectralZero: Text-Driven Spectral-Spatial Alignment for Zero-Shot Hyperspectral Image Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2026. `通讯作者`
+- Xia Y, Yue X, Liu X, `N.Chen*`, et al. SpectralZero: Text-Driven Spectral-Spatial Alignment for Zero-Shot Hyperspectral Image Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2026. `通讯作者`
 - B. Li, L. Fang, `N. Chen*`, J. Kang and J. Yue*, "Enhancing Hyperspectral Image Classification: Leveraging Unsupervised Information With Guided Group Contrastive Learning," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-17, 2024, Art no. 5504317, doi: 10.1109/TGRS.2024.3350700.	 `通讯作者`
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10382626) 
 - Liu H, Huang C, `Chen N*`, et al. Negative Samples Mining Matters: Reconsidering Hyperspectral Image Classification With Contrastive Learning[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024. `通讯作者`
 - Haoyuan Zhang, Hui Liu, Zexi Shi, Shanjun Mao, `Ning Chen*`,. ConvMamba: Combining Mamba with CNN for hyperspectral image classification[J]. Neurocomputing, 2025: 131016. `通讯作者`
+- Liu H, Huang C, Xie T, Bao W, `Chen N`, et al. Positive Matching Benefits Fusion: A Novel Contrastive Learning Framework for Hyperspectral and LiDAR Data Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2026. `通讯作者`
 - Lu M, `Chen N*`, Yue X, et al. Beyond Dimensionality Explosion: A Latent Diffusion Framework for Hyperspectral Image Classification[J]. Neurocomputing, 2025: 131249. `通讯作者`
+- Yue X, Liu A, `Chen N*`, et al. Beyond distribution shifts: Adaptive hyperspectral image classification at test time[J]. Neurocomputing, 2026: 133188. `通讯作者`
 - Sun Z, Liu H, `Chen N*`, et al. Spectral Channel Mixing Transformer with Spectral-Center Attention for Hyperspectral Image Classification[J]. Remote Sensing, 2025, 17(17): 3100. `通讯作者`
 - Sun Z, Shen Z, `Chen N*`, et al. MEFormer: Enhancing Low-Light Images While Preserving Image Authenticity in Mining Environments[J]. Remote Sensing, 2025, 17(7): 1165. `通讯作者`
 -	Liu, H.; Yuan, M.; Li, M.; Li, B.;`Chen, N.*`; Wang, J.; Li, X.; Wu, X. TDFPI: A Three-Dimensional and Full Parameter Inversion Model and Its Application for Building Damage Assessment in Guotun Coal Mining Areas, Shandong, China. Remote Sens. 2024, 16, 698. https://doi.org/10.3390/rs16040698 `通讯作者`
@@ -82,7 +84,9 @@ redirect_from:
 - *国家自然科学基金 青年科学基金（C类） 主持 2026-2028*
 - *国家自然科学基金 联合基金重点项目 课题 2024-2027*
 - *科技部 重点研发计划 骨干成员 2023-2027*
-- *国家自然科学基金 面上项目 参与 2017-2021* 
+- *国家自然科学基金 面上项目 参与 2017-2021*
+
+- *横向项目多项*
 
 <span class='anchor' id='-ryjx'></span>
 
