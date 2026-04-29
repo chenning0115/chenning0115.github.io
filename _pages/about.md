@@ -41,9 +41,11 @@ redirect_from:
 - `N. Chen`, L. Fang, Y. Xia, S. Xia, H. Liu and J. Yue, "Spectral Query Spatial: Revisiting the Role of Center Pixel in Transformer for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2024.3361652.	`第一作者,ESI高被引`
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10419080) 
 - `N. Chen`, J. Yue, L. Fang and S. Xia, "SpectralDiff: A Generative Framework for Hyperspectral Image Classification With Diffusion Models," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 5522416, doi: 10.1109/TGRS.2023.3310023.  `第一作者，ESI高被引`
-[[网页]](https://ieeexplore.ieee.org/abstract/document/10234379) 
+[[网页]](https://ieeexplore.ieee.org/abstract/document/10234379)
+- B. Yang, `N. Chen`, et al., "DIR-HSI: Degradation-Invariant Representation Learning for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2026.3687650. `通讯作者`
 - `Chen N`, Huang Z, Yue X, et al. Svaformer: Integrating random and hierarchical spectral view attention for hyperspectral image classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024. `第一作者`
 - Hui Liu, Wei Tong, `Ning Chen*`, Tao Xie, Chenjia Huang, Xia Yue, Zhou Huang, "Seeing through the noise: A cross-modal guided framework for hyperspectral image classification under multi-type degradations[J]," International Journal of Applied Earth Observation and Geoinformation, 2026. `通讯作者`
+- Xia Y, Yue X, Liu X, `N.Chen`, et al. SpectralZero: Text-Driven Spectral-Spatial Alignment for Zero-Shot Hyperspectral Image Classification[J]. IEEE Transactions on Geoscience and Remote Sensing, 2026. `通讯作者`
 - B. Li, L. Fang, `N. Chen*`, J. Kang and J. Yue*, "Enhancing Hyperspectral Image Classification: Leveraging Unsupervised Information With Guided Group Contrastive Learning," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-17, 2024, Art no. 5504317, doi: 10.1109/TGRS.2024.3350700.	 `通讯作者`
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10382626) 
 - Liu H, Huang C, `Chen N*`, et al. Negative Samples Mining Matters: Reconsidering Hyperspectral Image Classification With Contrastive Learning[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024. `通讯作者`
